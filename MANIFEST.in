@@ -1,0 +1,7 @@
+include README.txt
+include LICENSE
+include pyproject.toml
+recursive-include src *.py
+recursive-include tests *.py *.txt
+recursive-exclude tests __pycache__
+recursive-exclude tests *.pyc

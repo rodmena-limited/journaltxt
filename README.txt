@@ -35,7 +35,7 @@ Install from PyPI:
 
 Or install from source:
 
-    git clone https://github.com/journaltxt/journaltxt
+    git clone https://github.com/rodmena-limited/journaltxt
     cd journaltxt/python-rewrite/journaltxt
     pip install -e .
 
@@ -318,7 +318,7 @@ Similar Projects
 ----------------
 
 This is a Python port of the original Ruby journaltxt gem:
-https://github.com/journaltxt/journaltxt
+https://github.com/rodmena-limited/journaltxt
 
 The Journal.TXT format and specification:
 https://journaltxt.github.io
@@ -363,8 +363,8 @@ Please ensure:
 Support
 -------
 
-- Issues: https://github.com/journaltxt/journaltxt/issues
-- Discussions: https://github.com/journaltxt/journaltxt/discussions
+- Issues: https://github.com/rodmena-limited/journaltxt/issues
+- Discussions: https://github.com/rodmena-limited/journaltxt/discussions
 - Email: farsheed.ashouri@gmail.com
 
 
@@ -374,6 +374,7 @@ Authors
 - Farshid Ashouri <farsheed.ashouri@gmail.com>
 
 Based on the original Ruby implementation by Gerald Bauer and contributors.
+https://github.com/journaltxt/journaltxt
 
 
 Changelog
